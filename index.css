@@ -1,0 +1,59 @@
+body {
+     background-image: url("cn-tracks-still-run-right.jpg");
+    background-size: cover;
+    height: 100vh;
+    background-repeat: no-repeat;
+    font-family: -Oxygen;
+    font-weight: bolder;
+    text-align: center;
+    max-width: 400px;
+    margin: 0 auto;
+    color: black;
+
+}
+
+h1 {
+    margin-top: 150px;
+    margin-bottom: 10px;
+    border: 3px solid blueviolet;
+    background: skyblue
+}
+
+
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+   
+}
+    
+
+
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+#increment-btn {
+    background: blueviolet;
+    border: 2px solid greenyellow;
+}
+
+#save-btn {
+    background: blue;
+    border: 2px solid blueviolet;
+}
+#save-el{
+    border: 3px solid blueviolet;
+    background: skyblue;
+    
+    
+}
+
